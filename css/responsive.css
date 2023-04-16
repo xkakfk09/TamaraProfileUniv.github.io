@@ -1,0 +1,35 @@
+@media screen and (max-width : 922px) {
+    .img-hero {
+        opacity: 0.3;
+    }
+    .hero-tagline h1 {
+        font-size: 45px;
+    }
+    .hero-tagline p {
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width : 576px) {
+    .img-hero {
+        opacity: 0.3;
+    }
+    .hero-tagline h1 {
+        font-size: 45px;
+    }
+    .hero-tagline p {
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width : 350px) {
+    .img-hero {
+        opacity: 0.3;
+    }
+    .hero-tagline h1 {
+        font-size: 45px;
+    }
+    .hero-tagline p {
+        font-size: 30px;
+    }
+}
